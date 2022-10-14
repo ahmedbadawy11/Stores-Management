@@ -2,7 +2,7 @@
 POS &amp; Stores Management
 
 ## Description
-this is point of sales  and management system for Restaurants use to refer to the cash register 
+this is point of sales  and management system for Stores use to refer to the cash register 
 
 ## using
 C#, MySQL and Crystal Report
